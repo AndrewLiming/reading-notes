@@ -4,4 +4,4 @@
 
 - It looks like we'll be using vscode, an IDE, in this class. I look forward to getting to work on it.
 
-[Back To Main](https://andrewliming.github/reading-notes/)
+[Back To Main](https://andrewliming.github.io/reading-notes/)
