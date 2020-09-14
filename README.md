@@ -13,3 +13,5 @@ How can i keep myself in a growth mindset?
 - Be mindful of my thinking
 - Read about growth mindset
 
+
+![grindcore picture](https://media2.fdncms.com/eastbayexpress/imager/u/blog/19153636/music2-4485801e2f182ab7.jpg?cb=1534297491)
