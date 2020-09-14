@@ -8,7 +8,7 @@ I am a recovering addict and alcoholic with 5 years clean and sober.
 
 ### What is Growth Mindset to me.
 
-- Growth Mindset is remaining teachable. It's about not knowing but being open to learn and grow and absorb new information.
+- Growth Mindset is remaining teachable. It's about not knowing but being open to learn and grow and absorb new information
 
 ### How can i keep myself in a growth mindset?
 
