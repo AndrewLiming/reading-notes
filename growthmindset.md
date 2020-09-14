@@ -10,4 +10,4 @@
 
 ![grindcore picture](https://media2.fdncms.com/eastbayexpress/imager/u/blog/19153636/music2-4485801e2f182ab7.jpg?cb=1534297491)
 
-[table of contents](]https://andrewliming.github.io/reading-notes/)
+[table of contents](https://andrewliming.github.io/reading-notes/)
