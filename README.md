@@ -6,4 +6,5 @@ I am a recovering addict and alcoholic with 5 years clean and sober.
 
 ## Table Of Contents
 [Class 1: Growth Mindset](growthmindset.md)
+
 [Class 1: Coding Computer](codingcomputer.md)
