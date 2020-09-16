@@ -13,11 +13,13 @@ I am a recovering addict and alcoholic with 5 years clean and sober.
 
 [HTML notes](html.md)
 
-
-## Tables Of Contents For Review
-
 [Class 2: Review](class2_review.md)
 
 [Class 3: Notes on Revisions](revisions.md)
 
 [Class 3: Review](class3_review.md)
+
+[Class 4: Review](Class_4_Review.md)
+
+[Class 5: Review](read_05_CSS.md)
+
