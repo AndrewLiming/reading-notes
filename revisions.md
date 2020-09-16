@@ -38,3 +38,4 @@ Tracking and staging a new file, for a single file you'll use "`git add filename
 To commit a single file, you'd use the command "`$ git commit -m "(description of changes)`".
 To commit all changes, you'd use command "`$ git commit -a`".
 
+[table of contents](https://andrewliming.github.io/reading-notes/)
