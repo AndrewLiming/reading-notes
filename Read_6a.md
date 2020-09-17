@@ -14,3 +14,4 @@ Scripts contain instructions.
 
 Variables are used to store pieces of info used in the script.
 
+[Back to Home](https://andrewliming.github.io/reading-notes/)
