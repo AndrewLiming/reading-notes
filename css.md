@@ -10,3 +10,5 @@ What do we know
     - includes values like size of text or images
     - can add directly into html document or have its own page
     - scalability
+
+    [Back to Home](https://andrewliming.github.io/reading-notes/)

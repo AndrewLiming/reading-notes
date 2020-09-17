@@ -17,3 +17,5 @@
 (P) - Push git push origin master
 
 git pull origin master pulls from github to local computer
+
+[Back to Home](https://andrewliming.github.io/reading-notes/)

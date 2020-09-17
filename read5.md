@@ -13,3 +13,5 @@ You can use Color pickers to help find the color you want.
 It is important to make sure that the contrast between your background and your text is varied enough that it ill be easy to read. 
 
 CSS3 has introduced new values such as RGBA, an extra value for RGB colors to indicate opacity and HSLA, the ability to specify colors as HSL values with an optional opacity value.
+
+[Back to Home](https://andrewliming.github.io/reading-notes/)

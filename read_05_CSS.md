@@ -11,3 +11,5 @@
 - includes values like size of text or images
 - can add directly into HTML document or have its own page
 - Scalability
+
+[Back to Home](https://andrewliming.github.io/reading-notes/)
