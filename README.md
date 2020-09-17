@@ -26,3 +26,5 @@ I am a recovering addict and alcoholic with 5 years clean and sober.
 [Class 6a: Review](Read_6a.md)
 
 [Class 7a: Reading](Read7.md)
+
+[Class 8: Reading](read_08.md)
