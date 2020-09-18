@@ -11,6 +11,8 @@ I am a recovering addict and alcoholic with 5 years clean and sober.
 
 [Class 1: Cheat Sheet](cheatsheet.md)
 
+[Class 1: Markdown](read_01.md)
+
 [HTML notes](html.md)
 
 [Class 2: Review](class2_review.md)
