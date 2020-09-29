@@ -32,3 +32,21 @@ I am a recovering addict and alcoholic with 5 years clean and sober.
 [Class 7a: Reading](Read7.md)
 
 [Class 8: Reading](read_08.md)
+
+## Code 201 Reading Notes
+
+- [Class 1](201-class1.md)
+- Class 2
+- Class 3
+- Class 4
+- Class 5
+- Class 6
+- Class 7
+- Class 8
+- Class 9
+- Class 10
+- Class 11
+- Class 12
+- Class 13
+- Class 14
+- Class 15
