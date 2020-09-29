@@ -2,7 +2,6 @@
 
 Hi. I am Andrew. I am a student. I like grindcore, death metal and cooking.
 
-I am a recovering addict and alcoholic with 5 years clean and sober.
 
 ## Table Of Contents
 [Class 1: Growth Mindset](growthmindset.md)
@@ -36,7 +35,7 @@ I am a recovering addict and alcoholic with 5 years clean and sober.
 ## Code 201 Reading Notes
 
 - [Class 1](201-class1.md)
-- Class 2
+- [Class 2](class201-2.md)
 - Class 3
 - Class 4
 - Class 5
