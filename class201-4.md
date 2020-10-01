@@ -22,3 +22,5 @@
 - Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use percentages. 
 - Grids help you to create professional and flexible designs.
 You can include multiple CSS files in one page.
+
+[Back to Home](https://andrewliming.github.io/reading-notes/)
