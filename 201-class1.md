@@ -24,3 +24,5 @@
 - a browser sees a web page by receiving a page as html code, creating a model of the page and storing it in memory and then using a rendering engine to show the page on screen.
 - It's best to keep JavaScript in it's own JavaScript file. theyre text files but have the `js.` extension.
 - the tag `<script>` is used in html pages to tell the broswer to load the javascript file.
+
+[table of contents](https://andrewliming.github.io/reading-notes/)

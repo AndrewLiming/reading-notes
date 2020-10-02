@@ -37,8 +37,8 @@ Hi. I am Andrew. I am a student. I like grindcore, death metal and cooking.
 - [Class 1](201-class1.md)
 - [Class 2](class201-2.md)
 - [Class 3](class201-3.md)
-- Class 4
-- Class 5
+- [Class 4](class201-4.md)
+- [Class 5](class201-05.md)
 - Class 6
 - Class 7
 - Class 8
